@@ -1,0 +1,2 @@
+# Project-Predict-Employee-Turnover-with-scikit-learn
+Decision trees and random forest models were built using Scikit-learn and Python to train an employee churn prediction application. Kaggle Dataset of Employee Turnover with 15,000 employee Details (Rows) and 10 Features (Columns) was used in this ML model. Interactive controls for tuning Hyperparametres like Depth, min_leaf, min_samples was also developed using ipywidgets and interact in Jupyter notebook.
